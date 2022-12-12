@@ -10,6 +10,7 @@ To visualize the social graph of the Optimism attestation station, head to [Neo4
 * Scheme: neo4j + s
 * Connection URL: 0f01d659.databases.neo4j.io:7687
 * Database user: neo4j
+
 Obtain the password from admin. 
 
 Once you are logged in, select the `Query` tab on top. Enter the following command to view the entire social graph `MATCH (a)-[r]->(b) RETURN a,r,b`.
