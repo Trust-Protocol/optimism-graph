@@ -14,4 +14,4 @@ Obtain the password from admin.
 
 Once you are logged in, select the `Query` tab on top. Enter the following command to view the entire social graph `MATCH (a)-[r]->(b) RETURN a,r,b`.
 
-![social graph visual](img/neo4j-desktop.png)
+![social graph visual](img/neo4j-desktop.PNG)
